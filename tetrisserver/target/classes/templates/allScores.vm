@@ -8,6 +8,6 @@
 #foreach ($score in $scores)
     <li>$score.name : $score.score</li>
 #end
-<p>This page is ugly and unstyled...but it is made with apache velocity!</p>
+<p>This page is still ugly and unstyled...but it is made with apache velocity! Come back soon and it will look like the React page.</p>
   </body>
 </html>
